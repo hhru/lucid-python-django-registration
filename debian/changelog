@@ -1,3 +1,9 @@
+python-django-registration (0.8.1-hh1) unstable; urgency=low
+
+  * Update some deprecated code for django-1.4 compatibility #EWD-151 
+
+ -- Anton Volozhanin <zzzombat@gmail.com>  Wed, 01 Aug 2012 12:34:26 +0400
+
 python-django-registration (0.8) unstable; urgency=low
 
   [ Raphael Hertzog ]
